@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "trustedDependencies": [
+    "msgpackr-extract"
+  ],
+  "dependencies": {
+    "msgpackr-extract": "^3.0.3"
+  }
+}
